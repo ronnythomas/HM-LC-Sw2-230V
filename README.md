@@ -1,10 +1,10 @@
 # HM-LC-Sw2-230V
-# 2x 6A 230V Schaltkontakt mir 2 Schalteingängen; 
+# 2x 6A 230V Schaltkontakt mit 2 SchalteingÃ¤ngen; 
 
-## benötigte Hardware
+## benÃ¶tigte Hardware
 * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
 * 1x CC1101 Funkmodul **(868 MHz)**
-* 1x FTDI Adapter (wird nur zum Flashen benötigt)
+* 1x FTDI Adapter (wird nur zum Flashen benÃ¶tigt)
 * 4x WAGO 236-403
 * 2x Relais FTRLYCA 005V
 * 2x BC546
@@ -19,7 +19,7 @@
 * 1x VDR-0,6 250
 
 
-[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-LC-Sw2-FM) von Jérôme
+[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-LC-Sw2-FM) von JÃ©rÃ´me
 
 Bilder vom Mathias Q.
 ![complete](Images/1.jpg)
