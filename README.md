@@ -1,4 +1,4 @@
-# HM-LC-Sw2-230V
+﻿# HM-LC-Sw2-230V
 # 2x 6A 230V Schaltkontakt mit 2 Schalteingängen; 
 
 ## benötigte Hardware
@@ -19,7 +19,10 @@
 * 1x VDR-0,6 250
 
 
-[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/tree/master/examples/HM-LC-Sw2-FM) von Jérôme
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
+[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-LC-Sw2-FM/HM-LC-Sw2-FM.ino) von Jérôme
+
 
 Bilder vom Mathias Q.
 ![complete](Images/1.jpg)
