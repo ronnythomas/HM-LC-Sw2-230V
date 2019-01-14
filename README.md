@@ -8,8 +8,7 @@
 * 4x WAGO 236-403
 * 2x Relais FTRLYCA 005V
 * 2x BC546
-* 2x 1/4W 100 Ohm Widerstand
-* 1x 1/4W 330 Ohm Widerstand
+* 3x 1/4W 330 Ohm Widerstand
 * 1x Led 5mm
 * 1x Taster 6x6
 * 2x Diode 1N4148
